@@ -4,6 +4,6 @@
 
 ![Hyeonji Ryu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hyeonji-Ryu&hide=stars,contribs&theme=buefy&show_icons=true)
 
-<a href="https://github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Hyeonji-Ryu&hide=stars,contribs&theme=buefy&show_icons=true" />
+<a href="https://github.com/Hyeonji-Ryu/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Hyeonji-Ryu&hide=stars,contribs&theme=buefy&show_icons=true"/>
 </a>
