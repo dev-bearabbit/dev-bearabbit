@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHyeonji-Ryu%2Fhit-counter&count_bg=%23C3A0D5&title_bg=%23474449&icon=&icon_color=%23B18EC2&title=Hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHyeonji-Ryu%2Fhit-counter&count_bg=%23C3A0D5&title_bg=%23474449&icon=github.svg&icon_color=%23FFFFFF&title=Hits&edge_flat=false)](https://hits.seeyoufarm.com)
