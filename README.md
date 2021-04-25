@@ -17,5 +17,5 @@
 
 ## 👩🏻‍💻 About me
 
-Resume:
-Tech Bolg: https://hyeonji-ryu.github.io
+[![Blog](https://img.shields.io/badge/Resume-181717?&color=906da1&?style=for-the-badge&logo=github&logoColor=white)]() [![Blog](https://img.shields.io/badge/Tech_Blog-ff5722?&color=black&?style=for-the-badge&logo=Blogger&logoColor=white)](https://hyeonji-ryu.github.io/)
+
