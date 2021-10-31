@@ -3,7 +3,7 @@
  
  
  
- [![Resume](https://img.shields.io/badge/Resume-181717?&color=9black&?style=for-the-badge&logo=github&logoColor=white)](https://hyeonji-ryu.github.io/Resume/)
+ [![Resume](https://img.shields.io/badge/Resume-181717?&color=black&?style=for-the-badge&logo=github&logoColor=white)](https://hyeonji-ryu.github.io/Resume/)
  [![Blog](https://img.shields.io/badge/Tech_Blog-ff5722?&color=black&?style=for-the-badge&logo=Blogger&logoColor=white)](https://hyeonji-ryu.github.io/)
  </div>
  
