@@ -9,7 +9,7 @@
 
 - My motto: develop anything
 - wanna be a MLOps engineer
-- currently working as Bigdata platform engineer
+- currently working as Bigdata engineer
 
  <div align=center>
 
