@@ -8,7 +8,7 @@
  ## 👋🏽 Hi, there
 
 - My motto: develop anything
-- wanna be a MLOps engineer
+- wanna be a Software engineer
 - currently working as Bigdata engineer
 
  <div align=center>
