@@ -8,8 +8,8 @@
  ## 👋🏽 Hi, there
 
 - My motto: develop anything
-- wanna be a Software engineer
 - currently working as Bigdata engineer
+- I love to learn, and try to be better than yesterday.
 
  <div align=center>
 
