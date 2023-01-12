@@ -10,9 +10,3 @@
 - My motto: develop anything
 - currently working as Data engineer
 - I love to learn, and try to be better than yesterday.
-
- <div align=center>
-
- [![Jess's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hyeonji-Ryu&hide=stars,contribs&show_icons=true&theme=dark)](https://github.com/Hyeonji-Ryu/Hyeonji-Ryu)
- </div>
-</div>
